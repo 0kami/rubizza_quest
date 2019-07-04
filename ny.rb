@@ -1,2 +1,3 @@
  5.times do  puts "Kuropatka" end
-kokokokokoko
+4fefefefee
+
